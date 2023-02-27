@@ -3,6 +3,8 @@ package Test;
 public class RunTest {
 
     public static void main(String[] args) {
-        System.out.println("TEST");
+        // LOCAL TEST setup blablabla
+        // LOCAL TEST setup blablabla
+        System.out.println("TEST_LOCAL");
     }
 }
